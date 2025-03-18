@@ -3,11 +3,15 @@
 This is an interactive calculator program in Python that allows users to perform basic arithmetic operations continuously. The calculator supports:
 
 ✔ Addition (+)
+
 ✔ Subtraction (-)
+
 ✔ Multiplication (*)
+
 ✔ Division (/) (integer division)
 
 How It Works:
+
 1.The user enters the first number.
 2. The calculator displays available operations (+, -, *, /).
 3. The user selects an operation and enters the second number.
